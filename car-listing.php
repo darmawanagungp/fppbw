@@ -210,6 +210,7 @@ foreach($results as $result)
 <?php include('includes/registration.php');?>
 
 <!--/Register-Form -->
+<!--/Register-Form -->
 
 <!--Forgot-password-Form -->
 <?php include('includes/forgotpassword.php');?>
